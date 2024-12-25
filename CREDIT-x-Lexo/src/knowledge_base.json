@@ -1,0 +1,11 @@
+{
+    "exoskeleton": {
+        "description": "The Lexo exoskeleton is designed to assist with leg movements...",
+        "usage": "Users should wear Lexo during therapy sessions..."
+    },
+    "battery": {
+        "description": "The Lexo device is equipped with a rechargeable battery...",
+        "maintenance": "To maintain battery health, avoid overcharging..."
+    },
+    // more topics...
+}
