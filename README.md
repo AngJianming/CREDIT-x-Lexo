@@ -48,13 +48,14 @@ Authentication: OAuth 2.0 / JWT
 Hosting: AWS (EC2, Lambda), Azure, or Google Cloud Platform
 
 ### 3.2. Frontend
-Web Application:
+**Web Application:**
 Framework: React.js or Vue.js
 State Management: Redux or Vuex
 UI Libraries: Material-UI, Bootstrap, or Tailwind CSS
 Data Visualization: D3.js, Chart.js, or Recharts
-Mobile Application:
+<br>
 
+**Mobile Application:**
 Framework: React Native or Flutter
 State Management: Redux (for React Native) or Provider/BLoC (for Flutter)
 UI Libraries: NativeBase, Material Design
