@@ -97,19 +97,17 @@ Develop RESTful or GraphQL APIs for:
 - Data ingestion from Lexo.
 - Data retrieval for frontend applications.
 <br>
-<br>
 
 Real-time Data Handling:
 - Implement WebSockets or MQTT for real-time updates.
 Ensure scalability for multiple devices.
-<br>
 <br>
 
 Security Implementations:
 - Secure API endpoints.
 - Implement data encryption in transit and at rest.
 - Set up authentication and authorization mechanisms.
-
+<br><br>
 ### 4.3. Phase 3: IoT Device Integration
 
 **Raspberry Pi Setup:**
