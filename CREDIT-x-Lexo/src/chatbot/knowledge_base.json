@@ -7,5 +7,7 @@
         "description": "The Lexo device is equipped with a rechargeable battery...",
         "maintenance": "To maintain battery health, avoid overcharging..."
     },
-    // more topics...
+    "_comment": {
+        "_comment": "Add more knowledge base entries here..."
+    }
 }

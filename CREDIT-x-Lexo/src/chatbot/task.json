@@ -1,0 +1,22 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build chatbot",
+      "type": "shell",
+      "command": "gcc",
+      "args": [
+        "chatbot.c",
+        "-I/path/to/onnxruntime/include", 
+        "-L/path/to/onnxruntime/lib",
+        "-lonnxruntime",
+        "-o",
+        "chatbot"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    }
+  ]
+}
