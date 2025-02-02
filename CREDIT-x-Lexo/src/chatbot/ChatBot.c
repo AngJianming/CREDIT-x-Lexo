@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include "onnxruntime_c_api.h"
 
 // Macro for error checking using the ONNX Runtime C API.
 #define CHECK_STATUS(expr)                                  \
