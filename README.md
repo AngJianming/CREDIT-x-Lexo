@@ -1,5 +1,5 @@
 # CREDIT x Lexo
-A website/application for Lexo an Exo-skeleton IoT device for patients with Osteoperosis or any Leg immobility disease
+A website/application for Lexo an Exo-skeleton IoT device for patients with Osteoperosis or any Leg immobility diseases
 - Helps with retriving data from IoT device
 
 ## 1. Project Overview
